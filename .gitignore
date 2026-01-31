@@ -1,0 +1,49 @@
+# ========== UNITY PADRÃO ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Sysinfo/
+
+# ========== VS / VSCode ==========
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.tmp
+*.userprefs
+
+# ========== SISTEMA ==========
+.DS_Store
+Thumbs.db
+
+# ========== UNITY PACKAGES ==========
+Packages/packages-lock.json
+
+# ========== CRASHES E LIXO ==========
+*.pidb
+*.booproj
+*.bak
+*.old
+*.orig
+*.md5
+*.log
+
+# ========== PLUGINS NATIVOS ==========
+*.so
+*.dll
+*.dylib
+*.exe
+
+# ========== BACKUPS E META ==========
+*.swp
+*.tmp
+*.temp
+*.backup
+*.meta~ 
