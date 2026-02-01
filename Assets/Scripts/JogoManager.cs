@@ -135,7 +135,7 @@ public class JogoManager : MonoBehaviour
         }
         else
         {
-            yield return new WaitForSeconds(1f);
+            yield return new WaitForSeconds(0.5f);
             combo = 1; 
             primeiraCarta.Esconder();
             segundaCarta.Esconder();

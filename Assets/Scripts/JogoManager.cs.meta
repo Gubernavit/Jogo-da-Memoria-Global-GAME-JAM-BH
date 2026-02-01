@@ -1,2 +1,16 @@
 fileFormatVersion: 2
 guid: fd65809608a307f4eb3706436d6b24de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cartaPrefab: {fileID: 524907502959611847, guid: 3d12cfcc18e9a77488f91458047b5cb0, type: 3}
+  - tabuleiro: {instanceID: 0}
+  - textoPontos: {instanceID: 0}
+  - textoRecorde: {instanceID: 0}
+  - painelVitoria: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
