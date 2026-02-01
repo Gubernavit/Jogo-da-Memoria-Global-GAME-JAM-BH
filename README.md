@@ -21,7 +21,7 @@ Veja o projeto em ação:
     https://drive.google.com/file/d/18nlzA1yWxsHl88-36ppQ8qbmqIPYgmMU/view?usp=drive_link
 
 -   🎮 **Gameplay (Preview):**\
-    https://drive.google.com/file/d/17VYMvRpGFQQX6qiUBCKIFApn19DPCl1\_/view?usp=drive_link
+    [https://drive.google.com/file/d/17VYMvRpGFQQX6qiUBCKIFApn19DPCl1\_/view?usp=drive_link](https://drive.google.com/file/d/17VYMvRpGFQQX6qiUBCKIFApn19DPCl1_/view?usp=sharing)
 
 👉 **Quer só jogar?** Baixe o executável e vá ser feliz.\
     https://drive.google.com/drive/folders/1JcGk6vE4tn-AptumhNbUPtYR8yeiEf8x?usp=drive_link
